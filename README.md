@@ -8,6 +8,6 @@
 
 ## ##Estudante de Engenharia de Produção 
 
-## ##Atualmente estou estudando HTML 5, CSS3 e Javascript.
+## ##Atualmente estou estudando HTML 5, CSS3,HTML5,Javascript e Markdown.
 
 
